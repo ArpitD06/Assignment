@@ -1,30 +1,30 @@
 # Assignment
 
-Candidate Performance Overview:
+1. Candidate Performance Overview:
 
 Average, minimum, and maximum scores across all tests.
 
-Distribution of candidate scores 
+2. Distribution of candidate scores 
 
 Percentage of candidates in each performance category (Beginner, Intermediate, Experienced, Proficient).
 
-Test Performance Analysis:
+3. Test Performance Analysis:
 
-Average scores for each test (e.g., Manual Tester 2022, iOS Developer - Swift, AWS Cloud Architect).
+Average scores for each test 
 
-Section-wise Performance:
+4. Section-wise Performance:
 
 Number of correct, incorrect, and unanswered questions per section.
 
-Candidate Feedback Analysis:
+5. Candidate Feedback Analysis:
 
 Correlation between feedback and test performance.
 
-Proctoring and Violations
+6. Proctoring and Violations :
+   Impact of violations on test scores
 
-Time Analysis
-
-Section Difficulty Analysis
+7. Section Difficulty Analysis:
+   Comparison of section difficulty across different tests.
 
 
 
